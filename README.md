@@ -39,7 +39,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@UMARDEVIL/UMAR-BOT-INC-QR1)
 <img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
 
- ##  > THIS BOT CODED BY DRIPS MEMES UMAR BOT INC 
+ ##  > THIS BOT CODED BY Devil MEMES UMAR BOT INC 
 
 
 ## >  FOLLOW STEPS BELOW FOR INSTALLATION
@@ -54,9 +54,9 @@ apt install git
 
 apt update && apt upgrade
 
-git clone https://github.com/zim-bot/zimbot-v4
+git clone https://github.com/umardevil/umarbot-v4
  
-cd zimbot-v4
+cd umarbot-v4
 
  
 rm -r session.json
