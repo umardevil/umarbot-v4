@@ -1,14 +1,14 @@
-<a href="https://youtu.be/KNu-gr2h7bo"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/ww4z2m3uORU" /><br>
+<a href="https://youtu.be/KNu-gr2h7bo"><img src="https://img.shields.io/badge/Sub My -YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/UMARMODS" /><br>
 
 # UMAR BOT V4
 
 ## ``` This Script is for Everyone Don't sell it at high price ```
 ## WATCH TUTORIAL NICELY DON'T SKIP [`YOUTUBE`](https://www.youtube.com/c/UMARMODS)
 
-##  ``` Are you Experiencing an error don't hesitate to ask me ``` [`DRIPS`](https://wa.me/+923165123719)
+##  ``` Are you Experiencing an error don't hesitate to ask me ``` [`UMAR`](https://wa.me/+923165123719)
  WhatsApp with so Many features using multi device  [`BAILEYS`](https://github.com/adiwajshing/baileys)
  
- <a href="https://www.youtube.com/c/UMARMODS"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/ww4z2m3uORU" /><br>
+ <a href="https://www.youtube.com/c/UMARMODS"><img src="https://img.shields.io/badge/Sub My -Yt-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://img.shields.io/badge/Sub My -YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/UMARMODS" /><br>
  
  ## ```Donate Me```
 
@@ -16,12 +16,12 @@
  </a>
 </p>
 <p align="center">
-<img src="https://i.imgur.com/LbmTdhf.gif" alt="animated"  />
+<img src="https://i.imgur.com/lGh5edH.jpeg"
 </p>
 
 ## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/BBQgiM0adHc1m3wM6fEw5Y) [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 
-> A Fully PRECIOUS COOL BOT BY DRIPS MEMES <br>
+> A Fully PRECIOUS COOL BOT BY UMAR MEMES <br>
 > 
 ## DONT FORGET TO GIVE A STAR🌟 AND FORK
 
