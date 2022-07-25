@@ -1,14 +1,14 @@
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮ZIM BOT INC 2022 ®️ALL RIGHTS RESERVED
+//▮UMAR BOT INC 2022 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
 //▮THIS SOFTWARE IS UNDER UZ COPYRIGHT
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
-//▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
+//▮mrumar4040@gmail.com 
+//▮WHATSAPP US : +92 316 5123719
+//▮YOUTUBE CHANNELL: https://www.youtube.com/c/UMARMODS 
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -16,7 +16,7 @@
 //┃THIS SOFTWARE INCLUDES 
 //┃SOME ENCRYPTED FILES
 //┃
-//┃THANKS FOR CHOOSING ZIMBOT
+//┃THANKS FOR CHOOSING UMAR BOT
 //┃I WROTE THIS SCRIPT BY MYSELF THIS SCRIPT IS FOR EVERYONE DONT SELL IT
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 //
@@ -188,11 +188,11 @@ participant : '0@s.whatsapp.net'
     isForwarded: false, // ini biar ada tulisannya diteruskan berkali-kali, jika ingin di hilangkan ganti true menjadi false
  // Bagian ini sesuka kalian berkreasi :'v
 showAdAttribution: true,
-title: "ZIM BOT V4",
+title: "UMAR BOT V4",
 body: "GIVE IT A STAR",
 mediaType: "VIDEO",
-mediaUrl: `https://githb.com/zim-bot/zimbot-v4`,
-description: 'DRIPS OFC',
+mediaUrl: `https://githb.com/LOL 😂 `,
+description: 'UMAR OFC',
 previewType: "PHOTO",
 thumbnail: fs.readFileSync('./drips.jpg'),
 sourceUrl: "",
@@ -209,7 +209,7 @@ participant : '0@s.whatsapp.net'
   message: {
   documentMessage: {
 showAdAttribution: true,
-  title: "ZIM BOT V4", 
+  title: "UMAR BOT V4", 
   jpegThumbnail: fs.readFileSync('./drips.jpg')
 }
 }
@@ -224,8 +224,8 @@ showAdAttribution: true,
                },
     message: { 
        "extendedTextMessage": {
-                "text":'SUB DRIPS OFC',
-                "title": 'ZIM BOT-V4',
+                "text":'SUB UMAR OFC',
+                "title": 'UMAR BOT-V4',
                 'jpegThumbnail': fs.readFileSync('./drips.jpg')
              }
            } 
@@ -397,7 +397,7 @@ if (global.available) { if (m.chat) { ZimBotInc.sendPresenceUpdate('available', 
 }
 if (global.unavailable) { if (m.chat) { ZimBotInc.sendPresenceUpdate('unavailable', m.chat) }
 }
-//RPG FUNCTION BY DRIPS
+//RPG FUNCTION BY UMAR
 function randomNomor(min, max = null) {
   if (max !== null) {
   min = Math.ceil(min);
@@ -463,7 +463,7 @@ var DADYDR = `
  ┊ *Lᴇᴠᴇʟ:* ${getLevelingLevel(sender)}
  └───────────●
 
- ┌───〔 *_◉ɪɴꜰᴏ◉_* 〕
+ ┌───〔 *_◉ɪɴꜰᴏ ʙʏ ᴜᴍᴀʀ◉_* 〕
  ┊ *Mᴏɴᴇʏ:* $${(getBalance(sender, balance))}
  ┊ *Gᴏʟᴅ:* ${getEmas(sender)}
  ┊ *Iʀᴏɴ:* ${getBesi(sender)}
@@ -471,7 +471,7 @@ var DADYDR = `
  ┊ *Dɪᴀᴍᴏɴᴅ:* ${getDm(sender)}
  └───────────●
 
- ┌───〔 *_◉ᴍᴇɴᴜ ʀᴘɢ◉_* 〕
+ ┌───〔 *_◉ᴍᴇɴᴜ Ʀᴘɢ ᴜᴍᴀʀ◉_* 〕
  ┊ ${prefix}joinrpg
  ┊ ${prefix}quest 
  ┊ ${prefix}mining
@@ -482,7 +482,7 @@ var DADYDR = `
  ┊ ${prefix}inventori
  └───────────●
 
- ┌───〔 *_◉Fᴀʀᴍ ʀᴘɢ◉_* 〕
+ ┌───〔 *_◉Fᴀʀᴍ ʀᴘɢ ʙʏ ᴜᴍᴀʀ◉_* 〕
  ┊ ${prefix}killslime
  ┊ ${prefix}killgoblin
  ┊ ${prefix}killdevil
@@ -491,16 +491,16 @@ var DADYDR = `
  ┊ ${prefix}killdemonking 
  └───────────●
 
- ┌───〔 *_◉Tʀᴀᴅᴇ ʀᴘɢ◉_* 〕
+ ┌───〔 *_◉Tʀᴀᴅᴇ ʀᴘɢ ʙʏ ᴜᴍᴀʀ◉_* 〕
  ┊ ${prefix}sellikan
  ┊ ${prefix}sellbesi
  ┊ ${prefix}sellemas
  ┊ ${prefix}selldiamond
  └───────────●
 
- ┌───〔 *_ᴛʜᴀɴᴋs ᴛᴏ_* 〕
+ ┌───〔 *_ᴛʜᴀɴᴋs ᴛᴏ ᴜᴍᴀʀ_* 〕
  ┊ʏᴏᴜʀ ᴄʀᴇᴅɪᴛꜱ
- └───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+ └───〔 *_ᴜᴍᴀʀ ʙᴏᴛ ɪɴᴄ_* 〕
  `
 let message = await prepareWAMessageMedia({ image: bufu, jpegThumbnail:bufu }, { upload: ZimBotInc.waUploadToServer })
 const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
@@ -508,11 +508,11 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: DADYDR,
-hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴢɪᴍʙᴏᴛ`,
+hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴜᴍᴀʀʙᴏᴛ`,
 hydratedButtons:  [{        
     "urlButton": {
       "displayText": "SUBSCRIBE",
-      "url": "https://www.youtube.com/c/DRIPSOFC"
+      "url": "https://www.youtube.com/c/UMARMODS"
     }
 }, {
 quickReplyButton: {
@@ -561,11 +561,11 @@ ZimBotInc.relayMessage(m.chat, template.message, { messageId: template.key.id })
   hydratedTemplate: {
   imageMessage: message.imageMessage,
   hydratedContentText: hg,
-  hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴢɪᴍʙᴏᴛ`,
+  hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴜᴍᴀʀʙᴏᴛ`,
   hydratedButtons:  [{        
       "urlButton": {
         "displayText": "SUBSCRIBE",
-        "url": "https://www.youtube.com/c/DRIPSOFC"
+        "url": "https://www.youtube.com/c/UMARMODS"
       }
   }, {
   quickReplyButton: {
@@ -610,11 +610,11 @@ ZimBotInc.relayMessage(m.chat, template.message, { messageId: template.key.id })
           hydratedTemplate: {
           imageMessage: message.imageMessage,
           hydratedContentText: hg,
-          hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴢɪᴍʙᴏᴛ`,
+          hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴜᴍᴀʀʙᴏᴛ`,
           hydratedButtons:  [{        
               "urlButton": {
                 "displayText": "SUBSCRIBE",
-                "url": "https://www.youtube.com/c/DRIPSOFC"
+                "url": "https://www.youtube.com/c/UMARMODS"
               }
           }, {
           quickReplyButton: {
@@ -659,11 +659,11 @@ ZimBotInc.relayMessage(m.chat, template.message, { messageId: template.key.id })
             hydratedTemplate: {
             imageMessage: message.imageMessage,
             hydratedContentText: hg,
-            hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴢɪᴍʙᴏᴛ`,
+            hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴜᴍᴀʀʙᴏᴛ`,
             hydratedButtons:  [{        
                 "urlButton": {
                   "displayText": "SUBSCRIBE",
-                  "url": "https://www.youtube.com/c/DRIPSOFC"
+                  "url": "https://www.youtube.com/c/UMARMODS"
                 }
             }, {
             quickReplyButton: {
@@ -708,11 +708,11 @@ ZimBotInc.relayMessage(m.chat, template.message, { messageId: template.key.id })
             hydratedTemplate: {
             imageMessage: message.imageMessage,
             hydratedContentText: hg,
-            hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴢɪᴍʙᴏᴛ`,
+            hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴜᴍᴀʀʙᴏᴛ`,
             hydratedButtons:  [{        
                 "urlButton": {
                   "displayText": "SUBSCRIBE",
-                  "url": "https://www.youtube.com/c/DRIPSOFC"
+                  "url": "https://www.youtube.com/c/UMARMODS"
                 }
             }, {
             quickReplyButton: {
@@ -762,7 +762,7 @@ ZimBotInc.relayMessage(m.chat, template.message, { messageId: template.key.id })
               hydratedButtons: [{        
               "urlButton": {
               "displayText": "SUBSCRIBE",
-              "url": "https://www.youtube.com/c/DRIPSOFC"
+              "url": "https://www.youtube.com/c/UMARMODS"
               }
             }, {
               quickReplyButton: {
@@ -813,7 +813,7 @@ ZimBotInc.relayMessage(m.chat, template.message, { messageId: template.key.id })
               hydratedButtons: [{        
               "urlButton": {
               "displayText": "SUBSCRIBE",
-              "url": "https://www.youtube.com/c/DRIPSOFC"
+              "url": "https://www.youtube.com/c/UMARMODS"
               }
             }, {
               quickReplyButton: {
@@ -855,11 +855,11 @@ ZimBotInc.relayMessage(m.chat, template.message, { messageId: template.key.id })
             hydratedTemplate: {
             imageMessage: message.imageMessage,
             hydratedContentText: hg,
-            hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴢɪᴍʙᴏᴛ`,
+            hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴜᴍᴀʀʙᴏᴛ`,
             hydratedButtons:  [{        
                 "urlButton": {
                   "displayText": "SUBSCRIBE",
-                  "url": "https://www.youtube.com/c/DRIPSOFC"
+                  "url": "https://www.youtube.com/c/UMARMODS"
                 }
             }, {
             quickReplyButton: {
@@ -892,7 +892,7 @@ ZimBotInc.relayMessage(m.chat, template.message, { messageId: template.key.id })
             reply("Emoji error, please enter another emojinNOTE : Just enter 1 emoji")
             }
             }
-//----ANTILINK AND CHATBOT-----\\
+//----OYE RAMI ANTILINK AND CHATBOT-----\\
 //chatbot is encrypted sorry
 var _0x33fa3e=_0x465d;function _0x2a31(){var _0x124451=['reply','1109740LfSEyY','includes','9059424ATMYLh','702DCvREW','3129360vqgfpx','sender','@s.whatsapp.net','http://api.brainshop.ai/get?bid=167831&key=BFghpAKanUPXcLWQ&uid=','error','9eHTAtD','chatbot','catch','&msg=','1931044WXDcdy','data','split','18074ZBFvdT','user','GET','27825912kQipLx','62352dAoPvn','settings','http://api.brainshop.ai/get?bid=167831&key=BFghpAKanUPXcLWQ&uid=ZimBotinc.user.id&msg='];_0x2a31=function(){return _0x124451;};return _0x2a31();}function _0x465d(_0x46eeb2,_0x5f0900){var _0x2a3178=_0x2a31();return _0x465d=function(_0x465d22,_0x141be9){_0x465d22=_0x465d22-0x110;var _0x9b342b=_0x2a3178[_0x465d22];return _0x9b342b;},_0x465d(_0x46eeb2,_0x5f0900);}(function(_0x3277b6,_0x4246a7){var _0x1e4f2f=_0x465d,_0x355551=_0x3277b6();while(!![]){try{var _0x22af3f=-parseInt(_0x1e4f2f(0x11c))/0x1+parseInt(_0x1e4f2f(0x115))/0x2+parseInt(_0x1e4f2f(0x111))/0x3*(parseInt(_0x1e4f2f(0x120))/0x4)+parseInt(_0x1e4f2f(0x124))/0x5+-parseInt(_0x1e4f2f(0x123))/0x6*(-parseInt(_0x1e4f2f(0x118))/0x7)+parseInt(_0x1e4f2f(0x122))/0x8+-parseInt(_0x1e4f2f(0x11b))/0x9;if(_0x22af3f===_0x4246a7)break;else _0x355551['push'](_0x355551['shift']());}catch(_0x32822d){_0x355551['push'](_0x355551['shift']());}}}(_0x2a31,0xabe65));if(db[_0x33fa3e(0x11d)][botNumber][_0x33fa3e(0x112)]){if(m[_0x33fa3e(0x125)][_0x33fa3e(0x121)](_0x33fa3e(0x126))){var mhata=''+command;sehcalaz=ZimBotInc[_0x33fa3e(0x119)]['id'][_0x33fa3e(0x117)]('@')[0x0];var duzvi=encodeURI(mhata);const bhabhi={'method':_0x33fa3e(0x11a),'url':_0x33fa3e(0x11e)+command};await axios['get'](_0x33fa3e(0x127)+sehcalaz+_0x33fa3e(0x114)+duzvi)['then'](function(_0x55e8cd){var _0x4963f0=_0x33fa3e,_0x207a24='';_0x207a24=_0x55e8cd[_0x4963f0(0x116)]['cnt'],m[_0x4963f0(0x11f)](_0x207a24);})[_0x33fa3e(0x113)](function(_0x4cac14){var _0x12b308=_0x33fa3e;console[_0x12b308(0x110)](_0x4cac14);});}}
 
@@ -900,7 +900,7 @@ var _0x33fa3e=_0x465d;function _0x2a31(){var _0x124451=['reply','1109740LfSEyY',
 if (db.chats[m.chat].antilink) {
 if (budy.includes('https://chat.whatsapp.com/')) {
 if (!m.key.fromMe) {
-reply('[ 𝗭𝗜𝗠 𝗕𝗢𝗧 𝗔𝗡𝗧𝗜𝗟𝗜𝗡𝗞 ]\n𝗟𝗶𝗻𝗸 𝗻𝗼𝘁 𝗮𝗹𝗹𝗼𝘄𝗲𝗱 𝗵𝗲𝗿𝗲, 𝗢𝗞𝘆?..,\n𝗚𝗼𝗼𝗱 𝗯𝘆𝗲 𝗜𝗺 𝗸𝗶𝗰𝗸𝗶𝗻𝗴 𝘂𝗿 𝗮𝘀𝘀 𝗻𝗼𝘄👋🏻')
+reply('[ 𝗨𝗠𝗔𝗥 𝗕𝗢𝗧 𝗔𝗡𝗧𝗜𝗟𝗜𝗡𝗞 ]\n𝗢𝘆𝗲 𝗥𝗮𝗺𝗶 𝗟𝗶𝗻𝗸 𝗻𝗼𝘁 𝗮𝗹𝗹𝗼𝘄𝗲𝗱 𝗵𝗲𝗿𝗲, 𝗢𝗞𝘆?..,\n𝗼𝘆𝗲 𝗥𝗮𝗺𝗶 𝗚𝗼𝗼𝗱 𝗯𝘆𝗲 𝗜𝗺 𝗸𝗶𝗰𝗸𝗶𝗻𝗴 𝘂𝗿 𝗮𝘀𝘀 𝗻𝗼𝘄👋🏻')
 let sianj = m.sender
 await ZimBotInc.groupParticipantsUpdate(m.chat, [sianj], 'remove').then((res) => reply(jsonformat(res))).catch((err) => reply(jsonformat(err)))
 }
@@ -908,14 +908,14 @@ await ZimBotInc.groupParticipantsUpdate(m.chat, [sianj], 'remove').then((res) =>
 }
 if (db.chats[m.chat].wame) {
 if (budy.match(`wa.me/`)) {
-reply(`「 𝗭𝗜𝗠 𝗕𝗢𝗧 𝗔𝗡𝗧𝗜𝗟𝗜𝗡𝗞 」\n\n𝗬𝗼𝘂 𝗵𝗮𝘃𝗲 𝘀𝗲𝗻𝗱 𝘄𝗮.𝗺𝗲 𝗹𝗶𝗻𝗸, 𝗻𝗼 𝘁𝗶𝗺𝗲 𝘁𝗼 𝘄𝗮𝘀𝘁𝗲 𝘂𝗮 𝗼𝘂𝘁!`)
-if (!isBotAdmins) return reply(`𝘡𝘪𝘮 𝘉𝘰𝘵 𝘮𝘶𝘴𝘵 𝘣𝘦 𝘢𝘥𝘮𝘪𝘯 𝘧𝘪𝘳𝘴𝘵😚`)
+reply(`「 𝗨𝗠𝗔𝗥 𝗕𝗢𝗧 𝗔𝗡𝗧𝗜𝗟𝗜𝗡𝗞 」\n\n𝗼𝘆𝗲 𝗿𝗮𝗺𝗶 𝗬𝗼𝘂 𝗵𝗮𝘃𝗲 𝘀𝗲𝗻𝗱 𝘄𝗮.𝗺𝗲 𝗹𝗶𝗻𝗸, 𝗻𝗼 𝘁𝗶𝗺𝗲 𝘁𝗼 𝘄𝗮𝘀𝘁𝗲 𝘂𝗮 𝗼𝘂𝘁!`)
+if (!isBotAdmins) return reply(`Oye RAMI Umar 𝘉𝘰𝘵 𝘮𝘶𝘴𝘵 𝘣𝘦 𝘢𝘥𝘮𝘪𝘯 𝘧𝘪𝘳𝘴𝘵😚`)
 let gclink = (`https://wa.me/`)
 let isLinkThisGc = new RegExp(gclink, 'i')
 let isgclink = isLinkThisGc.test(m.text)
 if (isgclink) return reply(`𝘖𝘏 𝘠𝘦𝘢𝘩 𝘪𝘵 𝘥𝘪𝘥𝘯𝘵 𝘩𝘢𝘱𝘱𝘦𝘯, 𝘣𝘦𝘤𝘢𝘶𝘴𝘦 𝘺𝘰𝘶 𝘴𝘦𝘯𝘵 𝘵𝘩𝘪𝘴 𝘸𝘢.𝘮𝘦 𝘭𝘪𝘯𝘬𝘺 𝘰𝘬𝘢𝘺😌`)
-if (isAdmins) return reply(`𝘏𝘦𝘭𝘭 𝘯𝘰😱 𝘺𝘰𝘶 𝘢𝘥𝘮𝘪𝘯`)
-if (isCreator) return reply(`𝘖𝘰𝘰𝘰𝘩 𝘴𝘩𝘪𝘵😩 𝘴𝘰𝘳𝘳𝘺 𝘺𝘶 𝘢𝘳𝘦 𝘵𝘩𝘦 𝘰𝘸𝘯𝘦𝘳 𝘭𝘶𝘤𝘬𝘺 𝘺𝘰𝘶`)
+if (isAdmins) return reply(`oye rami are  𝘺𝘰𝘶 not admin`)
+if (isCreator) return reply(`𝘖𝘰𝘰𝘰𝘩 𝘴𝘩𝘪𝘵 rami😩 𝘴𝘰𝘳𝘳𝘺 𝘺𝘶 𝘢𝘳𝘦 𝘵𝘩𝘦 𝘰𝘸𝘯𝘦𝘳 𝘭𝘶𝘤𝘬𝘺 𝘺𝘰𝘶`)
 ZimBotInc.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
 }
 }
@@ -923,9 +923,9 @@ if (db.chats[m.chat].antiinstagram) {
     if (budy.includes("https://www.instagram.com/")){
  if (!isBotAdmins) return
  zimbotv3 = `*▊▊▊DETECTED▊▊▊*\n\n*you are admn okay*`
- if (isAdmins) return reply(zimbotv3)
- if (m.key.fromMe) return reply(zimbotv3)
- if (isCreator) return reply(zimbotv3)
+ if (isAdmins) return reply(umarbotv3)
+ if (m.key.fromMe) return reply(umarbotv3)
+ if (isCreator) return reply(umarbotv3)
  kice = m.sender
  await ZimBotInc.groupParticipantsUpdate(m.chat, [kice], 'remove')
  ZimBotInc.sendMessage(from, {text:`*▊▊▊DETECTED▊▊▊*\n\n@${kice.split("@")[0]} *I said no ig links here okay, now get out* `, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
